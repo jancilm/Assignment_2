@@ -1,0 +1,3 @@
+---
+# vars file for datadisk
+diskpath2: /dev/sdc
